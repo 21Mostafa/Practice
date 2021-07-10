@@ -1,0 +1,48 @@
+.container  {margin-top: 100px;}
+
+.carousel{background-color:  #fceae8;
+padding: 50px;
+border: 20px 40px;
+border-radius: 10px;
+
+
+}
+.slide img{height: 400px;}
+
+.prize{color:orangered;}
+
+
+
+
+
+.buy{
+    background-image: linear-gradient( rgb(17, 150, 226),rgb(10, 54, 177));
+    
+    padding: 9px 25px ;
+    border-radius: 10px;
+    
+}
+
+.card{box-shadow: 10px 20px 30px palegreen;}
+
+.red{background-color:purple;
+    border: 20px 40px;
+padding: 9px 20px;
+border-radius: 10px;}
+
+.gg{background-color: rgb(128, 120, 120);
+border-radius: 10px;
+padding: 10px 30px;
+ }
+.kk{background-color: burlywood;
+    border-radius: 10px;
+    padding: 10px 30px;}
+.hh{background-color: chartreuse;
+    border-radius: 10px;
+    padding: 10px 30px;}
+
+    .paw h1{color: white;
+    }
+    .paw img{width: 100px;}
+
+    
